@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
   ![licensebadge](https://img.shields.io/badge/license-MIT-red)
 
@@ -20,17 +20,26 @@
   
   ## Installation
   
-  Node, dotenv, MySQL2 and Sequelize
+  npm i 
   
   
   ## Usage 
   
   When traveling the budget tracker helps individuals maintain an accurate account balance with or without an internet/data connection. 
+  
 
   The user can input withdrawals by filling out the Name of transaction, transaction amount and selecting the Add Funds/Subtract funds buttons. This will also total your transaction amounts. 
 
+  ![image](/develop/assets/images/add-funds.PNG)
 
-  The transaction is then displayed in the transaction field and the graph below the transactions, show the transactions over time. 
+
+  The transaction is then displayed in the transaction field. 
+  
+  ![image](/develop/assets/images/transaction.PNG) 
+  
+  The graph below the transactions, show the transactions over time. 
+
+  ![image](/develop/assets/images/graph.PNG)
 
   
   ## Credits
@@ -50,7 +59,21 @@
   
   ## Tests
   
-  You can visit the deployed application at  and test it by inputing data while connected to the internet. You can then go into Dev tools and simulate no internet connection and you can test input data without the connenction. Once you reconnect to the internet the data will be moved from the devices cache to the on-line application. 
+  You can visit the deployed application at https://pure-ocean-46120.herokuapp.com/ and test it by inputing data while connected to the internet. 
+  
+  You can then go into Dev tools and simulate no internet connection and you can test input data without the connenction. 
+  
+  ![image](/develop/assets/images/offline.PNG)
+
+  The offline transaction is stored in the cache waiting for the application to connect to the internet. 
+
+  ![image](/develop/assets/images/offline-1.PNG)
+  
+  Once you reconnect to the internet the data will be moved from the devices cache to the on-line application. 
+
+  ![image](/develop/assets/images/online.PNG)
+
+  ![image](/develop/assets/images/online-1.PNG)
 
 
   ## Questions
