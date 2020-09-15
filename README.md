@@ -20,7 +20,7 @@
   
   ## Installation
   
-  npm i 
+  None the application is deployed at the following website: https://pure-ocean-46120.herokuapp.com/ 
   
   
   ## Usage 
