@@ -4,7 +4,7 @@
 
   ## Description 
 
-  This is a budget tracker for travelers who want to track deposits and withdrawls with or without a data/internet connection. 
+  This is a budget tracker for travelers who want to track deposits and withdrawls with or without an active data/internet connection. 
   
   
   ## Table of Contents
