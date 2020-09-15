@@ -30,16 +30,16 @@
 
   The user can input withdrawals by filling out the Name of transaction, transaction amount and selecting the Add Funds/Subtract funds buttons. This will also total your transaction amounts. 
 
-  ![image](/develop/assets/images/add-funds.PNG)
+  ![image](/assets/images/add-funds.PNG)
 
 
   The transaction is then displayed in the transaction field. 
   
-  ![image](/develop/assets/images/transaction.PNG) 
+  ![image](/assets/images/transaction.PNG) 
   
   The graph below the transactions, show the transactions over time. 
 
-  ![image](/develop/assets/images/graph.PNG)
+  ![image](/assets/images/graph.PNG)
 
   
   ## Credits
@@ -63,17 +63,17 @@
   
   You can then go into Dev tools and simulate no internet connection and you can test input data without the connenction. 
   
-  ![image](/develop/assets/images/offline.PNG)
+  ![image](/assets/images/offline.PNG)
 
   The offline transaction is stored in the cache waiting for the application to connect to the internet. 
 
-  ![image](/develop/assets/images/offline-1.PNG)
+  ![image](/assets/images/offline-1.PNG)
   
   Once you reconnect to the internet the data will be moved from the devices cache to the on-line application. 
 
-  ![image](/develop/assets/images/online.PNG)
+  ![image](/assets/images/online.PNG)
 
-  ![image](/develop/assets/images/online-1.PNG)
+  ![image](/assets/images/online-1.PNG)
 
 
   ## Questions
